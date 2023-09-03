@@ -2,6 +2,8 @@ from ibm_watson import NaturalLanguageUnderstandingV1
 from ibm_watson.natural_language_understanding_v1 import Features, SentimentOptions
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator  # Import the IAMAuthenticator class
 
+
+
 # Replace these with your own credentials
 API_KEY = "6bbda3b3-d572-45e1-8c54-22d6ed9e52c2"
 API_URL = "https://api.eu-gb.natural-language-understanding. watson.cloud.ibm.com/instances/4bce0063-2b11-4e4a-913e-90e68e8e16c6"
